@@ -7,18 +7,31 @@
     ----------------------------------------------------------------- 
 
 
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://enterpriseape-gutttonunes.c9.io/).
-
-Happy coding!
-The Cloud9 IDE team
+Enterprise Ape
+==============
 
 
-## Support & Documentation
+Power Software
+--------------
 
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+### Welcome to the repository 
+Feel free to access my [application portfolio](http://enterpriseape-gutttonunes.herokuapp.com/invoices)
+> ## Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+>
+>  consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+>  Neque porro *quisquam* est, qui dolorem , consectetur, adipisci velit, sed quia non 
+
+**ipsum quia dolor sit amet**
+
+### Really crazy good software
+* rapid development
++ tested
+- 27/4 support
+
+### Reason to choose us
+1. Price
+2. Precision
+3. Performance
+
+this is what ruby code looks like 'puts hello world'
+
