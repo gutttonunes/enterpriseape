@@ -16,6 +16,6 @@ Rails.application.routes.draw do
 
   resources :invoices
 
-  devise_for :users
+  devise_for :users 
     
 end
