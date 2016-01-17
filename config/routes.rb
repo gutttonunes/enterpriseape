@@ -1,5 +1,7 @@
 Rails.application.routes.draw do
 
+  root to: 'welcome#index'
+  
   get 'welcome/index'
 
   get 'welcome/about'
@@ -13,6 +15,7 @@ Rails.application.routes.draw do
   get 'welcome/princing'
 
   resources :invoices
-  root to: 'welcome#index'
-  
+
+  devise_for :users
+    
 end
